@@ -1,7 +1,9 @@
+# API Web Scraping
+
+This mini-project shows how to work with the APIs. The main goal is to practice different HTTP requests and extracting values from complex lists and nested dictionaries.
+
 ## Transport of London
-
-This mini-project shows how to work with the API from [Transport of London](https://api.tfl.gov.uk/). The main goal is to practice different HTTP requests and extracting values from complex lists and nested dictionaries.
-
+[Transport of London](https://api.tfl.gov.uk/)
 > #### Instruction
 > Register for the API service to obtain an **Application ID** and **Key**. We should append these values as parameters `app_id` and `app_key` into each URL when sending the request.
 
