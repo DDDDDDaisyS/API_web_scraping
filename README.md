@@ -1,6 +1,6 @@
 ## Transport of London
 
-During this mini-project, we will work with the API from [Transport of London](https://api.tfl.gov.uk/). The main goal of this project is to practice different HTTP requests and extracting values from complex lists and nested dictionaries.
+This mini-project shows how to work with the API from [Transport of London](https://api.tfl.gov.uk/). The main goal is to practice different HTTP requests and extracting values from complex lists and nested dictionaries.
 
 > #### Instruction
 > Register for the API service to obtain an **Application ID** and **Key**. We should append these values as parameters `app_id` and `app_key` into each URL when sending the request.
