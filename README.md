@@ -1,6 +1,6 @@
 # API Web Scraping
 
-This mini-project shows how to work with the APIs. The main goal is to practice different HTTP requests and extracting values from complex lists and nested dictionaries.
+This mini-project shows how to work with APIs. The main goal is to practice different HTTP requests and extracting values from complex lists and nested dictionaries.
 
 ## Transport of London
 [Transport of London](https://api.tfl.gov.uk/)
